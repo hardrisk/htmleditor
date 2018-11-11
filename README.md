@@ -1,2 +1,2 @@
 # htmleditor
-kendi yaptığım online editör
+kendi yaptığım online html editör
